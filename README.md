@@ -27,4 +27,6 @@
 - Mi próximo objetivo es conseguir un trabajo de este estilo que mas me gusta de programación y tener el dinero para poder mudarme e independizarme
 
 ### Aquí algunas de las capturas de mis videojuegos:
-![Castillo](
+![Castillo](https://github.com/obj1-unahur-2026s2/PresentacionPersonal-Elprofemcbelly/blob/main/titlescreen.png)
+![Sprites](
+![Fondo](
