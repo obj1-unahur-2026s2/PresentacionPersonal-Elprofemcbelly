@@ -1,4 +1,4 @@
-![Logo UNAHUR](./UNAHUR.pn/g)
+![Logo UNAHUR](./UNAHUR.png/)
 
 # Programación con objetos I
 ## Presentación Personal
@@ -16,7 +16,8 @@
 - Sueño y espero con poder crear mi propio videojuego algún día donde sea con mi propio estilo.
 - Me apasiona la **musica** y suelo manejarme muy bien creando sonidos o **soundtracks** para Mi, o incluso sonidos para relajarme o usarlos en proyectos.
 - Tengo un Perro llamado Toto.
-![Foto mía](Imágenes/Yo.jpeg)
+
+![Foto mía](<img width="737" height="1600" alt="Yo" src="https://github.com/user-attachments/assets/8467d97a-23fd-46c0-9677-e08fa36e778c"/>)
 
 ### *Mis gustos Personales*
 - Me apasionan demasiado los videojuegos tanto que me encantaría poder ser probador de juegos y testear los juegos, y poder arreglar los bugs o corregirlos.
