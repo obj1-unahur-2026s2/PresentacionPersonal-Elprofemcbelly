@@ -28,5 +28,6 @@
 
 ### Aquí algunas de las capturas de mis videojuegos:
 ![Castillo](https://github.com/obj1-unahur-2026s2/PresentacionPersonal-Elprofemcbelly/blob/main/titlescreen.png)
-![Sprites](
-![Fondo](
+![Sprites](vhttps://github.com/obj1-unahur-2026s2/PresentacionPersonal-Elprofemcbelly/blob/main/BadKnightspritesPNG.png)
+![Fondo](https://github.com/obj1-unahur-2026s2/PresentacionPersonal-Elprofemcbelly/blob/main/Background.png)
+
