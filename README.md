@@ -19,9 +19,12 @@
 
 ![Foto mía](https://github.com/obj1-unahur-2026s2/PresentacionPersonal-Elprofemcbelly/blob/main/Yo.jpeg)
 
-### *Mis gustos Personales*
+### <ins>*Mis gustos Personales*</ins>
 - Me apasionan demasiado los videojuegos tanto que me encantaría poder ser probador de juegos y testear los juegos, y poder arreglar los bugs o corregirlos.
 - Creo musica propio de juegos por que me relaja y además, me da inspiración
 - También soy técnico en reparación de objetos de computo y me encanta ayudar con problemas con ellos.
 - Disfruto demasiado las series antiguas y el estilo de dibujo, aunque no se dibujar.
 - Mi próximo objetivo es conseguir un trabajo de este estilo que mas me gusta de programación y tener el dinero para poder mudarme e independizarme
+
+### Aquí algunas de las capturas de mis videojuegos:
+![Castillo](
